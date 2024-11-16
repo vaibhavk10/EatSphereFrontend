@@ -1,7 +1,7 @@
 <h1 align="center">🍽️ EatSphere - Food Delivery App</h1>
 
 <p align="center">
-  <img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatspeheree.png" alt="EatSphere Logo">
+  <img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatspeheree.png" alt="EatSphere Logo">
 </p>
 
 <p align="center">
@@ -49,9 +49,9 @@
     <th>Cart</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg1.jpg" alt="Home Screen" width="200"></td>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg2.jpg" alt="Menu" width="200"></td>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg3.jpg" alt="Cart" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg1.jpg" alt="Home Screen" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg2.jpg" alt="Menu" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg3.jpg" alt="Cart" width="200"></td>
   </tr>
   <tr>
     <th>Order Placing</th>
@@ -59,9 +59,9 @@
     <th>Search Section</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg4.jpg" alt="Order Placing" width="200"></td>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg5.jpg" alt="Order Placed" width="200"></td>
-    <td><img src="https://github.com/vaibhavk10/EatSphere/blob/main/app/src/main/res/drawable/eatsphereimg6.jpg" alt="Search Section" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg4.jpg" alt="Order Placing" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg5.jpg" alt="Order Placed" width="200"></td>
+    <td><img src="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/app/src/main/res/drawable/eatsphereimg6.jpg" alt="Search Section" width="200"></td>
   </tr>
 </table>
 
@@ -89,7 +89,7 @@
 <hr>
 
 <h2>📖 License</h2>
-<p>This project is licensed under the MIT License. See the <a href="https://github.com/vaibhavk10/EatSphere/blob/main/LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License. See the <a href="https://github.com/vaibhavk10/EatSphereFrontend/blob/main/LICENSE">LICENSE</a> file for details.</p>
 
 <hr>
 
